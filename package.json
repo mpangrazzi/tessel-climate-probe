@@ -5,6 +5,15 @@
   "main": "index.js",
   "author": "Michele Pangrazzi <xmikex83@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mpangrazzi/tessel-climate-probe.git"
+  },
+  "keywords": [
+    "tessel",
+    "climate",
+    "probe"
+  ],
   "dependencies": {
     "climate-si7005": "^0.1.3"
   }

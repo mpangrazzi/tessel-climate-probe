@@ -10,6 +10,8 @@ var climateLib = require('climate-si7005');
 var running = 0;
 var port = 8080;
 
+// NOTE: change port if you need
+
 var climate = climateLib.use(tessel.port.B);
 tessel.led[1].write(0);
 

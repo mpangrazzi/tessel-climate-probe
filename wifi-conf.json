@@ -1,0 +1,6 @@
+{
+  "security": "wpa2",
+  "ssid": "devFarm",
+  "password": "d3vf4rm!",
+  "timeout": 30
+}

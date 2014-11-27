@@ -1,0 +1,11 @@
+{
+  "name": "tessel-climate-probe",
+  "version": "0.0.1",
+  "description": "Simple climate probe with HTML UI powered by Tessel",
+  "main": "index.js",
+  "author": "Michele Pangrazzi <xmikex83@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "climate-si7005": "^0.1.3"
+  }
+}
